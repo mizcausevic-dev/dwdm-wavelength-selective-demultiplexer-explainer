@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/dwdm-wavelength-selective-demultiplexer-explainer/
 
+Repository: https://github.com/mizcausevic-dev/dwdm-wavelength-selective-demultiplexer-explainer
+
 ## What this is
 
 An interactive anatomy plate for DWDM Wavelength-Selective Demultiplexer. Play, scrub, or jump the five stages. The same frame always draws the same picture.
